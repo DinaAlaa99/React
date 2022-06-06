@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Dina",
+            "age": 23,
+            "email": "Dina@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Reham",
+            "age": 24,
+            "email": "Reham@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Rowam",
+            "age": 23,
+            "email": "Rowan@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Esraa",
+            "age": 24,
+            "email": "Esraa@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+.Search-Component{
+   margin-top: 20px;
+   padding-top: 10px;
+   display: flex;
+   width:600px;
+   justify-content: center;
+   flex-direction: column;   
+}
+.Search-Component input{
+    margin: auto;
+    text-align: center;
+    border-radius: 15px;
+    outline: none;
+}
+.Header{
+    text-align: center;
+    background-color: rosybrown;
+    width:fit-content;
+    margin: 10px auto;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px lightgray;
+}
